@@ -1,8 +1,0 @@
-<html>
-<head>
-<style>
-body{background-color: red}
-</head>
-<body>
-</body>
-</html>
